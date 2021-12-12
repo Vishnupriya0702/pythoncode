@@ -14,4 +14,5 @@ def func(x):
         
     return s
 
-print(func("python is a great language"))
+print(func("python is a great language and easy language to learn"))
+print("Happy learning")
